@@ -1,1 +1,1 @@
-that creates a directory named
+betty from /tmp/
