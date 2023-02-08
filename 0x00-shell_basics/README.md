@@ -1,1 +1,1 @@
-betty from /tmp/
+the file betty delete
