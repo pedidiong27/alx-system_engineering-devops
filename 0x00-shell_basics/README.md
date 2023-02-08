@@ -1,1 +1,3 @@
-that lists all the files and directories of the current directory
+the command file to detect School data fi
+
+les
