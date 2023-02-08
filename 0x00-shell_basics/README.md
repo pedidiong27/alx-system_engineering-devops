@@ -1,1 +1,1 @@
-contents in a long format
+contents, including hidden files
