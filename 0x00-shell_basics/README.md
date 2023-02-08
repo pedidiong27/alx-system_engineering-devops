@@ -1,3 +1,1 @@
-that end with the char
-
-acter
+the directories welcome/, welcome/to/ and welcome/to/school
