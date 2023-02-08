@@ -1,1 +1,1 @@
-that changes the working directory to the user’s home directory
+contents in a long format
