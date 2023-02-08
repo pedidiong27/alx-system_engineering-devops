@@ -1,1 +1,1 @@
-the folder of this project, describing what each script is doing
+the contents list of your current directory
