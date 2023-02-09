@@ -1,1 +1,1 @@
-script that changes the owner and the group owner of _hello to vincent and staff
+script that changes the owner of the file hello to betty only
